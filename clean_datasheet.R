@@ -11,7 +11,7 @@ if (length(nu_pkgs))
 lapply(pkgs, library, character.only = TRUE)
 rm(pkgs, nu_pkgs)
 
-# reading in the SPME GC/MS data channel "TIC"
+# reading in the Tamarixia rearing logs
 df <-
   readxl::read_excel(
     path = "master_count_record.xlsx",
@@ -67,9 +67,8 @@ df <-
     na = "NA"
   )
 
-
-
-df %>% select(-c(
+# trying to figure out how to pivot_longer to get what I want, probably a pivot_longer_spec case
+df1 <- df %>% select(-c(
   "ct_1",
   "ct_2",
   "ct_3",
@@ -85,6 +84,13 @@ df %>% select(-c(
   values_to = "date"
 )
 
-tidyr::pivot_longer(df,
-                    c("ct_1", "ct_2", "ct_3", "ct_4", "ct_5", "ct_6"),
-                    names_to = "count")
+df2 <- df %>%
+  select(-c("harv_1", "harv_2", "harv_3", "harv_4", "harv_5", "cleaned")) %>%
+  tidyr::pivot_longer(
+    c("ct_1", "ct_2", "ct_3", "ct_4", "ct_5", "ct_6"),
+    names_to = "count",
+    values_to = "yield"
+  )
+
+#this isn't working the way I want it to
+inner_join(df1, df2)
