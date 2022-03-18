@@ -68,7 +68,7 @@ df <-
   )
 
 # trying to figure out how to pivot_longer to get what I want, probably a pivot_longer_spec case
-df %>% pivot_longer(
+df <- df %>% pivot_longer(
   cols = c("harv_1", "harv_2", "harv_3", "harv_4", "harv_5", "cleaned"),
   names_to = "harvest",
   values_to = "date"
