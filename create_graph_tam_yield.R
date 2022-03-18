@@ -23,5 +23,8 @@ df <-
   read_csv("clean_tam_yield_datasheet.csv",
            col_types = c("ff?????fff?fD"))
 
-ggplot(data = df, mapping = aes(date, tam_ct)) +
-  geom_line()
+df$month <- month(df$date)
+df$year <- year(df$date)
+
+ggplot(data = df, mapping = aes(plant, tam_ct)) +
+  geom_boxplot()
