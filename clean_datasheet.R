@@ -1,6 +1,6 @@
 ####LOADING PACKAGES AND READING IN FILE LISTS####
 # loading required packages
-pkgs <- c("readxl", "lubridate", "tidyr", "dplyr")
+pkgs <- c("renv", "readxl", "lubridate", "tidyr", "dplyr", "readr")
 
 # installs missing packages
 nu_pkgs <- pkgs[!(pkgs %in% installed.packages()[, "Package"])]
@@ -68,8 +68,23 @@ df <-
   )
 
 # trying to figure out how to pivot_longer to get what I want, probably a pivot_longer_spec case
-df <- df %>% pivot_longer(
-  cols = c("harv_1", "harv_2", "harv_3", "harv_4", "harv_5", "cleaned"),
-  names_to = "harvest",
-  values_to = "date"
-)
+df1 <-
+  df %>% dplyr::select(starts_with("harv_"), "cleaned", "ovi_id") %>% pivot_longer(cols = !"ovi_id",
+                                                                                   names_to = "harvest",
+                                                                                   values_to = "date")
+
+
+df <-
+  df %>% dplyr::select(!starts_with("harv_"),-"cleaned") %>% pivot_longer(
+    cols = c(starts_with("ct_")),
+    names_to = "ct",
+    values_to = "tam_ct"
+  )
+
+df <- bind_cols(df[-11], df1[-1])
+
+# saving the cleaned output
+write_csv(df, "clean_tam_yield_datasheet.csv")
+
+# removing any objects in the environment
+rm(list = ls())
