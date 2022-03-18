@@ -13,7 +13,7 @@ cage,ovi_id,tam_add,total,pd,psy,yld,pests,barn,plant,tam_ct,harvest,date
 213,1117201,200,107,0,0,0,0,3,Jasmine,0,cleaned,2020-12-17
 214,1117202,200,63,0,0,0,0,3,Jasmine,29,harv_1,2020-12-07
 214,1117202,200,63,0,0,0,0,3,Jasmine,14,harv_2,2020-12-08
-214,1117202,200,63,0,0,0,0,3,Jasmine,20,harv_3,2000-12-09
+214,1117202,200,63,0,0,0,0,3,Jasmine,20,harv_3,2020-12-09
 214,1117202,200,63,0,0,0,0,3,Jasmine,NA,harv_4,NA
 214,1117202,200,63,0,0,0,0,3,Jasmine,NA,harv_5,NA
 214,1117202,200,63,0,0,0,0,3,Jasmine,0,cleaned,2020-12-17
@@ -413,7 +413,7 @@ cage,ovi_id,tam_add,total,pd,psy,yld,pests,barn,plant,tam_ct,harvest,date
 133,215221,300,0,NA,NA,NA,NA,1,Mix (OJ/Curry),NA,harv_4,NA
 133,215221,300,0,NA,NA,NA,NA,1,Mix (OJ/Curry),NA,harv_5,NA
 133,215221,300,0,NA,NA,NA,NA,1,Mix (OJ/Curry),NA,cleaned,NA
-134,218221,240,143,NA,NA,NA,NA,1,Mix (OJ/Curry),63,harv_1,2002-03-14
+134,218221,240,143,NA,NA,NA,NA,1,Mix (OJ/Curry),63,harv_1,2020-03-14
 134,218221,240,143,NA,NA,NA,NA,1,Mix (OJ/Curry),80,harv_2,2022-03-17
 134,218221,240,143,NA,NA,NA,NA,1,Mix (OJ/Curry),NA,harv_3,NA
 134,218221,240,143,NA,NA,NA,NA,1,Mix (OJ/Curry),NA,harv_4,NA
