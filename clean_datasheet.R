@@ -1,6 +1,6 @@
 ####LOADING PACKAGES AND READING IN FILE LISTS####
 # loading required packages
-pkgs <- c("readxl", "lubridate", "tidyr")
+pkgs <- c("readxl", "lubridate", "tidyr", "dplyr")
 
 # installs missing packages
 nu_pkgs <- pkgs[!(pkgs %in% installed.packages()[, "Package"])]
@@ -68,29 +68,8 @@ df <-
   )
 
 # trying to figure out how to pivot_longer to get what I want, probably a pivot_longer_spec case
-df1 <- df %>% select(-c(
-  "ct_1",
-  "ct_2",
-  "ct_3",
-  "ct_4",
-  "ct_5",
-  "ct_6",
-  "total",
-  "psy",
-  "yld"
-)) %>% tidyr::pivot_longer(
-  c("harv_1", "harv_2", "harv_3", "harv_4", "harv_5", "cleaned"),
-  names_to = "harv",
+df %>% pivot_longer(
+  cols = c("harv_1", "harv_2", "harv_3", "harv_4", "harv_5", "cleaned"),
+  names_to = "harvest",
   values_to = "date"
 )
-
-df2 <- df %>%
-  select(-c("harv_1", "harv_2", "harv_3", "harv_4", "harv_5", "cleaned")) %>%
-  tidyr::pivot_longer(
-    c("ct_1", "ct_2", "ct_3", "ct_4", "ct_5", "ct_6"),
-    names_to = "count",
-    values_to = "yield"
-  )
-
-#this isn't working the way I want it to
-inner_join(df1, df2)
