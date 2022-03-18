@@ -19,6 +19,9 @@ if (length(nu_pkgs))
 lapply(pkgs, library, character.only = TRUE)
 rm(pkgs, nu_pkgs)
 
-df <- read_csv("clean_tam_yield_datasheet.csv")
+df <-
+  read_csv("clean_tam_yield_datasheet.csv",
+           col_types = c("ff?????fff?fD"))
 
-as_factor()
+ggplot(data = df, mapping = aes(date, tam_ct)) +
+  geom_line()
