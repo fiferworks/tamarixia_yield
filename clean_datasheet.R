@@ -75,13 +75,15 @@ df1 <-
 
 
 df <-
-  df %>% dplyr::select(!starts_with("harv_"),-"cleaned") %>% pivot_longer(
+  df %>% dplyr::select(!starts_with("harv_"), -"cleaned") %>% pivot_longer(
     cols = c(starts_with("ct_")),
     names_to = "ct",
     values_to = "tam_ct"
   )
 
 df <- bind_cols(df[-11], df1[-1])
+
+df$date <- as_date(df$date)
 
 # saving the cleaned output
 write_csv(df, "clean_tam_yield_datasheet.csv")
