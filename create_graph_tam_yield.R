@@ -1,14 +1,17 @@
 ####LOADING PACKAGES AND READING IN FILE LISTS####
 # loading required packages
 pkgs <-
-  c("renv",
+  c(
+    "renv",
     "readxl",
     "lubridate",
     "tidyr",
     "dplyr",
     "readr",
     "forcats",
-    "ggplot2")
+    "ggplot2",
+    "ggthemes"
+  )
 
 # installs missing packages
 nu_pkgs <- pkgs[!(pkgs %in% installed.packages()[, "Package"])]
@@ -26,5 +29,8 @@ df <-
 df$month <- month(df$date)
 df$year <- year(df$date)
 
-ggplot(data = df, mapping = aes(plant, tam_ct)) +
-  geom_boxplot()
+df %>% drop_na() %>% ggplot(aes(x = plant, y = tam_ct, fill = plant)) +
+  geom_boxplot(notch = TRUE) +
+  ggtitle("Total Tamarixia radiata produced, 2020-2022") +
+  theme_tufte(base_size = 30) +
+  facet_wrap(ggplot2::vars(year))
