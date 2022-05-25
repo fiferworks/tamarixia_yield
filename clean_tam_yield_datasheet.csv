@@ -419,3 +419,87 @@ cage,ovi_id,tam_add,total,pd,psy,yld,pests,barn,plant,tam_ct,harvest,date,plant_
 134,218221,240,143,NA,NA,NA,NA,1,Mix,NA,harv_4,NA,Mix
 134,218221,240,143,NA,NA,NA,NA,1,Mix,NA,harv_5,NA,Mix
 134,218221,240,143,NA,NA,NA,NA,1,Mix,NA,cleaned,NA,Mix
+121,222221,180,315,0,200,0,0,1,M. paniculata,139,harv_1,2022-03-21,O. Jasmine
+121,222221,180,315,0,200,0,0,1,M. paniculata,41,harv_2,2022-03-22,O. Jasmine
+121,222221,180,315,0,200,0,0,1,M. paniculata,88,harv_3,2022-03-28,O. Jasmine
+121,222221,180,315,0,200,0,0,1,M. paniculata,36,harv_4,2022-03-29,O. Jasmine
+121,222221,180,315,0,200,0,0,1,M. paniculata,11,harv_5,2022-03-03,O. Jasmine
+121,222221,180,315,0,200,0,0,1,M. paniculata,0,cleaned,2022-04-04,O. Jasmine
+122,302221,200,392,0,400,0,0,1,M. paniculata,102,harv_1,2022-03-28,O. Jasmine
+122,302221,200,392,0,400,0,0,1,M. paniculata,150,harv_2,2022-03-29,O. Jasmine
+122,302221,200,392,0,400,0,0,1,M. paniculata,70,harv_3,2022-03-31,O. Jasmine
+122,302221,200,392,0,400,0,0,1,M. paniculata,57,harv_4,2022-04-04,O. Jasmine
+122,302221,200,392,0,400,0,0,1,M. paniculata,10,harv_5,2022-04-11,O. Jasmine
+122,302221,200,392,0,400,0,0,1,M. paniculata,3,cleaned,2022-04-26,O. Jasmine
+123,302221,200,NA,NA,NA,NA,NA,NA,M. paniculata,102,harv_1,2022-03-28,O. Jasmine
+123,302221,200,NA,NA,NA,NA,NA,NA,M. paniculata,170,harv_2,2022-03-29,O. Jasmine
+123,302221,200,NA,NA,NA,NA,NA,NA,M. paniculata,234,harv_3,2022-03-31,O. Jasmine
+123,302221,200,NA,NA,NA,NA,NA,NA,M. paniculata,513,harv_4,2022-04-04,O. Jasmine
+123,302221,200,NA,NA,NA,NA,NA,NA,M. paniculata,50,harv_5,2022-04-06,O. Jasmine
+123,302221,200,NA,NA,NA,NA,NA,NA,M. paniculata,NA,cleaned,NA,O. Jasmine
+124,308221,200,NA,NA,NA,NA,NA,NA,M. paniculata,408,harv_1,2022-04-04,O. Jasmine
+124,308221,200,NA,NA,NA,NA,NA,NA,M. paniculata,98,harv_2,2022-04-06,O. Jasmine
+124,308221,200,NA,NA,NA,NA,NA,NA,M. paniculata,147,harv_3,2022-04-11,O. Jasmine
+124,308221,200,NA,NA,NA,NA,NA,NA,M. paniculata,40,harv_4,2022-04-18,O. Jasmine
+124,308221,200,NA,NA,NA,NA,NA,NA,M. paniculata,NA,harv_5,NA,O. Jasmine
+124,308221,200,NA,NA,NA,NA,NA,NA,M. paniculata,NA,cleaned,NA,O. Jasmine
+125,311221,200,NA,NA,NA,NA,NA,NA,M. paniculata,369,harv_1,2022-04-11,O. Jasmine
+125,311221,200,NA,NA,NA,NA,NA,NA,M. paniculata,27,harv_2,2022-04-18,O. Jasmine
+125,311221,200,NA,NA,NA,NA,NA,NA,M. paniculata,16,harv_3,2022-04-25,O. Jasmine
+125,311221,200,NA,NA,NA,NA,NA,NA,M. paniculata,NA,harv_4,NA,O. Jasmine
+125,311221,200,NA,NA,NA,NA,NA,NA,M. paniculata,NA,harv_5,NA,O. Jasmine
+125,311221,200,NA,NA,NA,NA,NA,NA,M. paniculata,NA,cleaned,NA,O. Jasmine
+126,314221,200,NA,NA,NA,NA,NA,NA,M. paniculata,366,harv_1,2022-04-11,O. Jasmine
+126,314221,200,NA,NA,NA,NA,NA,NA,M. paniculata,170,harv_2,2022-04-18,O. Jasmine
+126,314221,200,NA,NA,NA,NA,NA,NA,M. paniculata,16,harv_3,2022-04-26,O. Jasmine
+126,314221,200,NA,NA,NA,NA,NA,NA,M. paniculata,NA,harv_4,NA,O. Jasmine
+126,314221,200,NA,NA,NA,NA,NA,NA,M. paniculata,NA,harv_5,NA,O. Jasmine
+126,314221,200,NA,NA,NA,NA,NA,NA,M. paniculata,NA,cleaned,NA,O. Jasmine
+127,315221,200,NA,NA,NA,NA,NA,NA,M. paniculata,285,harv_1,2022-04-11,O. Jasmine
+127,315221,200,NA,NA,NA,NA,NA,NA,M. paniculata,254,harv_2,2022-04-18,O. Jasmine
+127,315221,200,NA,NA,NA,NA,NA,NA,M. paniculata,46,harv_3,2022-04-22,O. Jasmine
+127,315221,200,NA,NA,NA,NA,NA,NA,M. paniculata,107,harv_4,2022-04-25,O. Jasmine
+127,315221,200,NA,NA,NA,NA,NA,NA,M. paniculata,NA,harv_5,NA,O. Jasmine
+127,315221,200,NA,NA,NA,NA,NA,NA,M. paniculata,NA,cleaned,NA,O. Jasmine
+135,307221,200,NA,NA,NA,NA,NA,NA,M. paniculata,493,harv_1,2022-04-04,O. Jasmine
+135,307221,200,NA,NA,NA,NA,NA,NA,M. paniculata,52,harv_2,2022-04-06,O. Jasmine
+135,307221,200,NA,NA,NA,NA,NA,NA,M. paniculata,224,harv_3,2022-04-11,O. Jasmine
+135,307221,200,NA,NA,NA,NA,NA,NA,M. paniculata,NA,harv_4,NA,O. Jasmine
+135,307221,200,NA,NA,NA,NA,NA,NA,M. paniculata,NA,harv_5,NA,O. Jasmine
+135,307221,200,NA,NA,NA,NA,NA,NA,M. paniculata,NA,cleaned,NA,O. Jasmine
+128,318221,200,NA,NA,NA,NA,NA,NA,M. paniculata,3,harv_1,2022-04-11,O. Jasmine
+128,318221,200,NA,NA,NA,NA,NA,NA,M. paniculata,273,harv_2,2022-04-18,O. Jasmine
+128,318221,200,NA,NA,NA,NA,NA,NA,M. paniculata,154,harv_3,2022-04-22,O. Jasmine
+128,318221,200,NA,NA,NA,NA,NA,NA,M. paniculata,282,harv_4,2022-04-25,O. Jasmine
+128,318221,200,NA,NA,NA,NA,NA,NA,M. paniculata,48,harv_5,2022-04-26,O. Jasmine
+128,318221,200,NA,NA,NA,NA,NA,NA,M. paniculata,NA,cleaned,NA,O. Jasmine
+129,322221,200,NA,NA,NA,NA,NA,NA,Mix,24,harv_1,2022-04-18,Mix
+129,322221,200,NA,NA,NA,NA,NA,NA,Mix,105,harv_2,2022-04-25,Mix
+129,322221,200,NA,NA,NA,NA,NA,NA,Mix,35,harv_3,2022-04-26,Mix
+129,322221,200,NA,NA,NA,NA,NA,NA,Mix,NA,harv_4,NA,Mix
+129,322221,200,NA,NA,NA,NA,NA,NA,Mix,NA,harv_5,NA,Mix
+129,322221,200,NA,NA,NA,NA,NA,NA,Mix,NA,cleaned,NA,Mix
+301,328221,200,NA,NA,NA,NA,NA,3,Mix,651,harv_1,2022-04-25,Mix
+301,328221,200,NA,NA,NA,NA,NA,3,Mix,180,harv_2,2022-04-26,Mix
+301,328221,200,NA,NA,NA,NA,NA,3,Mix,200,harv_3,2022-04-28,Mix
+301,328221,200,NA,NA,NA,NA,NA,3,Mix,NA,harv_4,NA,Mix
+301,328221,200,NA,NA,NA,NA,NA,3,Mix,NA,harv_5,NA,Mix
+301,328221,200,NA,NA,NA,NA,NA,3,Mix,NA,cleaned,NA,Mix
+302,401221,200,NA,NA,NA,NA,NA,3,M. paniculata,NA,harv_1,NA,O. Jasmine
+302,401221,200,NA,NA,NA,NA,NA,3,M. paniculata,NA,harv_2,NA,O. Jasmine
+302,401221,200,NA,NA,NA,NA,NA,3,M. paniculata,NA,harv_3,NA,O. Jasmine
+302,401221,200,NA,NA,NA,NA,NA,3,M. paniculata,NA,harv_4,NA,O. Jasmine
+302,401221,200,NA,NA,NA,NA,NA,3,M. paniculata,NA,harv_5,NA,O. Jasmine
+302,401221,200,NA,NA,NA,NA,NA,3,M. paniculata,NA,cleaned,NA,O. Jasmine
+303,409221,200,NA,NA,NA,NA,NA,3,M. paniculata,NA,harv_1,NA,O. Jasmine
+303,409221,200,NA,NA,NA,NA,NA,3,M. paniculata,NA,harv_2,NA,O. Jasmine
+303,409221,200,NA,NA,NA,NA,NA,3,M. paniculata,NA,harv_3,NA,O. Jasmine
+303,409221,200,NA,NA,NA,NA,NA,3,M. paniculata,NA,harv_4,NA,O. Jasmine
+303,409221,200,NA,NA,NA,NA,NA,3,M. paniculata,NA,harv_5,NA,O. Jasmine
+303,409221,200,NA,NA,NA,NA,NA,3,M. paniculata,NA,cleaned,NA,O. Jasmine
+304,413221,200,NA,NA,NA,NA,NA,3,Mix,NA,harv_1,NA,Mix
+304,413221,200,NA,NA,NA,NA,NA,3,Mix,NA,harv_2,NA,Mix
+304,413221,200,NA,NA,NA,NA,NA,3,Mix,NA,harv_3,NA,Mix
+304,413221,200,NA,NA,NA,NA,NA,3,Mix,NA,harv_4,NA,Mix
+304,413221,200,NA,NA,NA,NA,NA,3,Mix,NA,harv_5,NA,Mix
+304,413221,200,NA,NA,NA,NA,NA,3,Mix,NA,cleaned,NA,Mix
