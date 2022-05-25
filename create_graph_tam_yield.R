@@ -29,6 +29,11 @@ df <-
 df$month <- month(df$date)
 df$year <- year(df$date)
 
+# for CHRP report
+report_period <- interval(today(), start = "2021-10-12")
+df1 <- (df %>% filter(date %within% report_period))
+
+# graphing results
 df %>% drop_na() %>% ggplot(aes(x = plant_common, y = tam_ct, fill = plant_common)) +
   geom_boxplot(notch = TRUE) +
   ggtitle("Total Tamarixia radiata produced, 2020-2022") +
