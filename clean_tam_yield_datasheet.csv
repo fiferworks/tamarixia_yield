@@ -197,144 +197,210 @@ cage,ovi_id,tam_add,total,pd,psy,yld,pests,barn,plant,tam_ct,harvest,date,plant_
 132,1230202,200,1980,0,750,0,0,1,M. paniculata,383,harv_4,2021-01-26,O. Jasmine
 132,1230202,200,1980,0,750,0,0,1,M. paniculata,413,harv_5,2021-01-27,O. Jasmine
 132,1230202,200,1980,0,750,0,0,1,M. paniculata,780,cleaned,2021-01-29,O. Jasmine
-133,104211,140,2619,2,1800,0,0,1,M. paniculata,139,harv_1,2021-01-25,O. Jasmine
-133,104211,140,2619,2,1800,0,0,1,M. paniculata,284,harv_2,2021-01-26,O. Jasmine
-133,104211,140,2619,2,1800,0,0,1,M. paniculata,308,harv_3,2021-01-27,O. Jasmine
-133,104211,140,2619,2,1800,0,0,1,M. paniculata,274,harv_4,2021-01-28,O. Jasmine
-133,104211,140,2619,2,1800,0,0,1,M. paniculata,465,harv_5,2021-01-29,O. Jasmine
-133,104211,140,2619,2,1800,0,0,1,M. paniculata,1149,cleaned,2021-02-03,O. Jasmine
-134,104212,105,562,2,400,0,APHIDS,1,M. paniculata,42,harv_1,2021-01-26,O. Jasmine
-134,104212,105,562,2,400,0,APHIDS,1,M. paniculata,53,harv_2,2021-01-27,O. Jasmine
-134,104212,105,562,2,400,0,APHIDS,1,M. paniculata,61,harv_3,2021-01-28,O. Jasmine
-134,104212,105,562,2,400,0,APHIDS,1,M. paniculata,83,harv_4,2021-01-29,O. Jasmine
-134,104212,105,562,2,400,0,APHIDS,1,M. paniculata,198,harv_5,2021-02-01,O. Jasmine
-134,104212,105,562,2,400,0,APHIDS,1,M. paniculata,125,cleaned,2021-02-03,O. Jasmine
-135,106211,100,1201,0,159,0,0,1,Mix,22,harv_1,2021-01-25,Mix
-135,106211,100,1201,0,159,0,0,1,Mix,48,harv_2,2021-01-26,Mix
-135,106211,100,1201,0,159,0,0,1,Mix,91,harv_3,2021-01-27,Mix
-135,106211,100,1201,0,159,0,0,1,Mix,156,harv_4,2021-01-28,Mix
-135,106211,100,1201,0,159,0,0,1,Mix,102,harv_5,2021-01-29,Mix
-135,106211,100,1201,0,159,0,0,1,Mix,782,cleaned,2021-02-05,Mix
-136,108211,200,5,2,0,0,APHIDS,1,Mix,5,harv_1,2021-01-28,Mix
-136,108211,200,5,2,0,0,APHIDS,1,Mix,NA,harv_2,NA,Mix
-136,108211,200,5,2,0,0,APHIDS,1,Mix,NA,harv_3,NA,Mix
-136,108211,200,5,2,0,0,APHIDS,1,Mix,NA,harv_4,NA,Mix
-136,108211,200,5,2,0,0,APHIDS,1,Mix,NA,harv_5,NA,Mix
-136,108211,200,5,2,0,0,APHIDS,1,Mix,0,cleaned,2021-02-05,Mix
-201,111211,200,29,0,0,0,0,3,M. paniculata,29,harv_1,2021-02-02,O. Jasmine
-201,111211,200,29,0,0,0,0,3,M. paniculata,NA,harv_2,NA,O. Jasmine
-201,111211,200,29,0,0,0,0,3,M. paniculata,NA,harv_3,NA,O. Jasmine
-201,111211,200,29,0,0,0,0,3,M. paniculata,NA,harv_4,NA,O. Jasmine
-201,111211,200,29,0,0,0,0,3,M. paniculata,NA,harv_5,NA,O. Jasmine
-201,111211,200,29,0,0,0,0,3,M. paniculata,0,cleaned,2021-02-05,O. Jasmine
-202,112211,200,28,0,0,0,0,3,M. paniculata,21,harv_1,2021-02-02,O. Jasmine
-202,112211,200,28,0,0,0,0,3,M. paniculata,7,harv_2,2021-02-03,O. Jasmine
-202,112211,200,28,0,0,0,0,3,M. paniculata,NA,harv_3,NA,O. Jasmine
-202,112211,200,28,0,0,0,0,3,M. paniculata,NA,harv_4,NA,O. Jasmine
-202,112211,200,28,0,0,0,0,3,M. paniculata,NA,harv_5,NA,O. Jasmine
-202,112211,200,28,0,0,0,0,3,M. paniculata,0,cleaned,2021-02-05,O. Jasmine
-203,113211,200,29,0,0,0,0,3,M. paniculata,19,harv_1,2021-02-02,O. Jasmine
-203,113211,200,29,0,0,0,0,3,M. paniculata,10,harv_2,2021-02-03,O. Jasmine
-203,113211,200,29,0,0,0,0,3,M. paniculata,NA,harv_3,NA,O. Jasmine
-203,113211,200,29,0,0,0,0,3,M. paniculata,NA,harv_4,NA,O. Jasmine
-203,113211,200,29,0,0,0,0,3,M. paniculata,NA,harv_5,NA,O. Jasmine
-203,113211,200,29,0,0,0,0,3,M. paniculata,0,cleaned,2021-02-08,O. Jasmine
-204,114211,200,0,0,20,0,0,3,M. paniculata,NA,harv_1,NA,O. Jasmine
-204,114211,200,0,0,20,0,0,3,M. paniculata,NA,harv_2,NA,O. Jasmine
-204,114211,200,0,0,20,0,0,3,M. paniculata,NA,harv_3,NA,O. Jasmine
-204,114211,200,0,0,20,0,0,3,M. paniculata,NA,harv_4,NA,O. Jasmine
-204,114211,200,0,0,20,0,0,3,M. paniculata,NA,harv_5,NA,O. Jasmine
-204,114211,200,0,0,20,0,0,3,M. paniculata,0,cleaned,2021-02-11,O. Jasmine
-205,119211,200,0,1,0,0,0,3,M. paniculata,NA,harv_1,NA,O. Jasmine
-205,119211,200,0,1,0,0,0,3,M. paniculata,NA,harv_2,NA,O. Jasmine
-205,119211,200,0,1,0,0,0,3,M. paniculata,NA,harv_3,NA,O. Jasmine
-205,119211,200,0,1,0,0,0,3,M. paniculata,NA,harv_4,NA,O. Jasmine
-205,119211,200,0,1,0,0,0,3,M. paniculata,NA,harv_5,NA,O. Jasmine
-205,119211,200,0,1,0,0,0,3,M. paniculata,0,cleaned,2021-02-17,O. Jasmine
-206,120211,200,0,1,0,0,0,3,M. paniculata,NA,harv_1,NA,O. Jasmine
-206,120211,200,0,1,0,0,0,3,M. paniculata,NA,harv_2,NA,O. Jasmine
-206,120211,200,0,1,0,0,0,3,M. paniculata,NA,harv_3,NA,O. Jasmine
-206,120211,200,0,1,0,0,0,3,M. paniculata,NA,harv_4,NA,O. Jasmine
-206,120211,200,0,1,0,0,0,3,M. paniculata,NA,harv_5,NA,O. Jasmine
-206,120211,200,0,1,0,0,0,3,M. paniculata,0,cleaned,2021-02-19,O. Jasmine
-207,122211,200,0,0,0,0,0,3,Mix,NA,harv_1,NA,Mix
-207,122211,200,0,0,0,0,0,3,Mix,NA,harv_2,NA,Mix
-207,122211,200,0,0,0,0,0,3,Mix,NA,harv_3,NA,Mix
-207,122211,200,0,0,0,0,0,3,Mix,NA,harv_4,NA,Mix
-207,122211,200,0,0,0,0,0,3,Mix,NA,harv_5,NA,Mix
-207,122211,200,0,0,0,0,0,3,Mix,0,cleaned,2021-02-22,Mix
-208,129211,200,0,0,0,0,0,3,Mix,NA,harv_1,NA,Mix
-208,129211,200,0,0,0,0,0,3,Mix,NA,harv_2,NA,Mix
-208,129211,200,0,0,0,0,0,3,Mix,NA,harv_3,NA,Mix
-208,129211,200,0,0,0,0,0,3,Mix,NA,harv_4,NA,Mix
-208,129211,200,0,0,0,0,0,3,Mix,NA,harv_5,NA,Mix
-208,129211,200,0,0,0,0,0,3,Mix,0,cleaned,2021-02-22,Mix
-209,127211,200,10,0,28,0,ANTS,3,Mix,NA,harv_1,NA,Mix
-209,127211,200,10,0,28,0,ANTS,3,Mix,NA,harv_2,NA,Mix
-209,127211,200,10,0,28,0,ANTS,3,Mix,NA,harv_3,NA,Mix
-209,127211,200,10,0,28,0,ANTS,3,Mix,NA,harv_4,NA,Mix
-209,127211,200,10,0,28,0,ANTS,3,Mix,NA,harv_5,NA,Mix
-209,127211,200,10,0,28,0,ANTS,3,Mix,10,cleaned,2021-02-24,Mix
-210,129211,200,1,0,32,0,APHIDS,3,M. paniculata,1,harv_1,2021-02-21,O. Jasmine
-210,129211,200,1,0,32,0,APHIDS,3,M. paniculata,NA,harv_2,NA,O. Jasmine
-210,129211,200,1,0,32,0,APHIDS,3,M. paniculata,NA,harv_3,NA,O. Jasmine
-210,129211,200,1,0,32,0,APHIDS,3,M. paniculata,NA,harv_4,NA,O. Jasmine
-210,129211,200,1,0,32,0,APHIDS,3,M. paniculata,NA,harv_5,NA,O. Jasmine
-210,129211,200,1,0,32,0,APHIDS,3,M. paniculata,0,cleaned,2021-02-26,O. Jasmine
-211,201211,200,168,0,228,0,APHIDS,3,M. paniculata,10,harv_1,2021-02-23,O. Jasmine
-211,201211,200,168,0,228,0,APHIDS,3,M. paniculata,25,harv_2,2021-02-24,O. Jasmine
-211,201211,200,168,0,228,0,APHIDS,3,M. paniculata,18,harv_3,2021-02-25,O. Jasmine
-211,201211,200,168,0,228,0,APHIDS,3,M. paniculata,25,harv_4,2021-02-26,O. Jasmine
-211,201211,200,168,0,228,0,APHIDS,3,M. paniculata,NA,harv_5,NA,O. Jasmine
-211,201211,200,168,0,228,0,APHIDS,3,M. paniculata,90,cleaned,2021-03-01,O. Jasmine
-212,203211,200,173,0,200,0,APHIDS,3,M. paniculata,2,harv_1,2021-02-24,O. Jasmine
-212,203211,200,173,0,200,0,APHIDS,3,M. paniculata,1,harv_2,2021-02-26,O. Jasmine
-212,203211,200,173,0,200,0,APHIDS,3,M. paniculata,51,harv_3,2021-03-01,O. Jasmine
-212,203211,200,173,0,200,0,APHIDS,3,M. paniculata,32,harv_4,2021-03-02,O. Jasmine
-212,203211,200,173,0,200,0,APHIDS,3,M. paniculata,31,harv_5,2021-03-03,O. Jasmine
-212,203211,200,173,0,200,0,APHIDS,3,M. paniculata,56,cleaned,2021-03-04,O. Jasmine
-201,205211,200,22,0,200,0,0,3,M. paniculata,14,harv_1,2021-03-01,O. Jasmine
-201,205211,200,22,0,200,0,0,3,M. paniculata,8,harv_2,2021-03-02,O. Jasmine
-201,205211,200,22,0,200,0,0,3,M. paniculata,NA,harv_3,NA,O. Jasmine
-201,205211,200,22,0,200,0,0,3,M. paniculata,NA,harv_4,NA,O. Jasmine
-201,205211,200,22,0,200,0,0,3,M. paniculata,NA,harv_5,NA,O. Jasmine
-201,205211,200,22,0,200,0,0,3,M. paniculata,0,cleaned,2021-03-08,O. Jasmine
-202,208211,50,42,0,50,0,0,3,M. paniculata,6,harv_1,2021-03-04,O. Jasmine
-202,208211,50,42,0,50,0,0,3,M. paniculata,17,harv_2,2021-03-05,O. Jasmine
-202,208211,50,42,0,50,0,0,3,M. paniculata,9,harv_3,2021-03-08,O. Jasmine
-202,208211,50,42,0,50,0,0,3,M. paniculata,NA,harv_4,NA,O. Jasmine
-202,208211,50,42,0,50,0,0,3,M. paniculata,NA,harv_5,NA,O. Jasmine
-202,208211,50,42,0,50,0,0,3,M. paniculata,10,cleaned,2021-03-09,O. Jasmine
-203,216211,81,728,0,400,0,0,3,M. paniculata,11,harv_1,2021-03-08,O. Jasmine
-203,216211,81,728,0,400,0,0,3,M. paniculata,25,harv_2,2021-03-09,O. Jasmine
-203,216211,81,728,0,400,0,0,3,M. paniculata,34,harv_3,2021-03-10,O. Jasmine
-203,216211,81,728,0,400,0,0,3,M. paniculata,72,harv_4,2021-03-11,O. Jasmine
-203,216211,81,728,0,400,0,0,3,M. paniculata,83,harv_5,2021-03-12,O. Jasmine
-203,216211,81,728,0,400,0,0,3,M. paniculata,503,cleaned,2021-03-16,O. Jasmine
-204,219211,100,1103,0,200,0,0,3,M. paniculata,5,harv_1,2021-03-10,O. Jasmine
-204,219211,100,1103,0,200,0,0,3,M. paniculata,11,harv_2,2021-03-11,O. Jasmine
-204,219211,100,1103,0,200,0,0,3,M. paniculata,35,harv_3,2021-03-12,O. Jasmine
-204,219211,100,1103,0,200,0,0,3,M. paniculata,464,harv_4,2021-03-15,O. Jasmine
-204,219211,100,1103,0,200,0,0,3,M. paniculata,143,harv_5,2021-03-16,O. Jasmine
-204,219211,100,1103,0,200,0,0,3,M. paniculata,445,cleaned,2021-03-19,O. Jasmine
-205,223211,60,759,0,180,0,APHIDS,3,M. paniculata,71,harv_1,2021-03-15,O. Jasmine
-205,223211,60,759,0,180,0,APHIDS,3,M. paniculata,69,harv_2,2021-03-16,O. Jasmine
-205,223211,60,759,0,180,0,APHIDS,3,M. paniculata,127,harv_3,2021-03-17,O. Jasmine
-205,223211,60,759,0,180,0,APHIDS,3,M. paniculata,137,harv_4,2021-03-18,O. Jasmine
-205,223211,60,759,0,180,0,APHIDS,3,M. paniculata,77,harv_5,2021-03-19,O. Jasmine
-205,223211,60,759,0,180,0,APHIDS,3,M. paniculata,278,cleaned,2021-03-23,O. Jasmine
-206,301211,86,1569,0,1000,0,APHIDS,3,M. paniculata,125,harv_1,2021-03-22,O. Jasmine
-206,301211,86,1569,0,1000,0,APHIDS,3,M. paniculata,122,harv_2,2021-03-23,O. Jasmine
-206,301211,86,1569,0,1000,0,APHIDS,3,M. paniculata,98,harv_3,2021-03-24,O. Jasmine
-206,301211,86,1569,0,1000,0,APHIDS,3,M. paniculata,80,harv_4,2021-03-25,O. Jasmine
-206,301211,86,1569,0,1000,0,APHIDS,3,M. paniculata,118,harv_5,2021-03-26,O. Jasmine
-206,301211,86,1569,0,1000,0,APHIDS,3,M. paniculata,1026,cleaned,2021-03-31,O. Jasmine
-210,303211,130,233,0,200,0,APHIDS,3,M. paniculata,40,harv_1,2021-03-22,O. Jasmine
-210,303211,130,233,0,200,0,APHIDS,3,M. paniculata,2,harv_2,2021-03-23,O. Jasmine
-210,303211,130,233,0,200,0,APHIDS,3,M. paniculata,22,harv_3,2021-03-25,O. Jasmine
-210,303211,130,233,0,200,0,APHIDS,3,M. paniculata,18,harv_4,2021-03-26,O. Jasmine
-210,303211,130,233,0,200,0,APHIDS,3,M. paniculata,50,harv_5,2021-03-29,O. Jasmine
-210,303211,130,233,0,200,0,APHIDS,3,M. paniculata,101,cleaned,2021-04-01,O. Jasmine
+133,0104211,140,2619,2,1800,0,0,1,M. paniculata,139,harv_1,2021-01-25,O. Jasmine
+133,0104211,140,2619,2,1800,0,0,1,M. paniculata,284,harv_2,2021-01-26,O. Jasmine
+133,0104211,140,2619,2,1800,0,0,1,M. paniculata,308,harv_3,2021-01-27,O. Jasmine
+133,0104211,140,2619,2,1800,0,0,1,M. paniculata,274,harv_4,2021-01-28,O. Jasmine
+133,0104211,140,2619,2,1800,0,0,1,M. paniculata,465,harv_5,2021-01-29,O. Jasmine
+133,0104211,140,2619,2,1800,0,0,1,M. paniculata,1149,cleaned,2021-02-03,O. Jasmine
+134,0104212,105,562,2,400,0,APHIDS,1,M. paniculata,42,harv_1,2021-01-26,O. Jasmine
+134,0104212,105,562,2,400,0,APHIDS,1,M. paniculata,53,harv_2,2021-01-27,O. Jasmine
+134,0104212,105,562,2,400,0,APHIDS,1,M. paniculata,61,harv_3,2021-01-28,O. Jasmine
+134,0104212,105,562,2,400,0,APHIDS,1,M. paniculata,83,harv_4,2021-01-29,O. Jasmine
+134,0104212,105,562,2,400,0,APHIDS,1,M. paniculata,198,harv_5,2021-02-01,O. Jasmine
+134,0104212,105,562,2,400,0,APHIDS,1,M. paniculata,125,cleaned,2021-02-03,O. Jasmine
+135,0106211,100,1201,0,159,0,0,1,Mix,22,harv_1,2021-01-25,Mix
+135,0106211,100,1201,0,159,0,0,1,Mix,48,harv_2,2021-01-26,Mix
+135,0106211,100,1201,0,159,0,0,1,Mix,91,harv_3,2021-01-27,Mix
+135,0106211,100,1201,0,159,0,0,1,Mix,156,harv_4,2021-01-28,Mix
+135,0106211,100,1201,0,159,0,0,1,Mix,102,harv_5,2021-01-29,Mix
+135,0106211,100,1201,0,159,0,0,1,Mix,782,cleaned,2021-02-05,Mix
+136,0108211,200,5,2,0,0,APHIDS,1,Mix,5,harv_1,2021-01-28,Mix
+136,0108211,200,5,2,0,0,APHIDS,1,Mix,NA,harv_2,NA,Mix
+136,0108211,200,5,2,0,0,APHIDS,1,Mix,NA,harv_3,NA,Mix
+136,0108211,200,5,2,0,0,APHIDS,1,Mix,NA,harv_4,NA,Mix
+136,0108211,200,5,2,0,0,APHIDS,1,Mix,NA,harv_5,NA,Mix
+136,0108211,200,5,2,0,0,APHIDS,1,Mix,0,cleaned,2021-02-05,Mix
+201,0111211,200,29,0,0,0,0,3,M. paniculata,29,harv_1,2021-02-02,O. Jasmine
+201,0111211,200,29,0,0,0,0,3,M. paniculata,NA,harv_2,NA,O. Jasmine
+201,0111211,200,29,0,0,0,0,3,M. paniculata,NA,harv_3,NA,O. Jasmine
+201,0111211,200,29,0,0,0,0,3,M. paniculata,NA,harv_4,NA,O. Jasmine
+201,0111211,200,29,0,0,0,0,3,M. paniculata,NA,harv_5,NA,O. Jasmine
+201,0111211,200,29,0,0,0,0,3,M. paniculata,0,cleaned,2021-02-05,O. Jasmine
+202,0112211,200,28,0,0,0,0,3,M. paniculata,21,harv_1,2021-02-02,O. Jasmine
+202,0112211,200,28,0,0,0,0,3,M. paniculata,7,harv_2,2021-02-03,O. Jasmine
+202,0112211,200,28,0,0,0,0,3,M. paniculata,NA,harv_3,NA,O. Jasmine
+202,0112211,200,28,0,0,0,0,3,M. paniculata,NA,harv_4,NA,O. Jasmine
+202,0112211,200,28,0,0,0,0,3,M. paniculata,NA,harv_5,NA,O. Jasmine
+202,0112211,200,28,0,0,0,0,3,M. paniculata,0,cleaned,2021-02-05,O. Jasmine
+203,0113211,200,29,0,0,0,0,3,M. paniculata,19,harv_1,2021-02-02,O. Jasmine
+203,0113211,200,29,0,0,0,0,3,M. paniculata,10,harv_2,2021-02-03,O. Jasmine
+203,0113211,200,29,0,0,0,0,3,M. paniculata,NA,harv_3,NA,O. Jasmine
+203,0113211,200,29,0,0,0,0,3,M. paniculata,NA,harv_4,NA,O. Jasmine
+203,0113211,200,29,0,0,0,0,3,M. paniculata,NA,harv_5,NA,O. Jasmine
+203,0113211,200,29,0,0,0,0,3,M. paniculata,0,cleaned,2021-02-08,O. Jasmine
+204,0114211,200,0,0,20,0,0,3,M. paniculata,NA,harv_1,NA,O. Jasmine
+204,0114211,200,0,0,20,0,0,3,M. paniculata,NA,harv_2,NA,O. Jasmine
+204,0114211,200,0,0,20,0,0,3,M. paniculata,NA,harv_3,NA,O. Jasmine
+204,0114211,200,0,0,20,0,0,3,M. paniculata,NA,harv_4,NA,O. Jasmine
+204,0114211,200,0,0,20,0,0,3,M. paniculata,NA,harv_5,NA,O. Jasmine
+204,0114211,200,0,0,20,0,0,3,M. paniculata,0,cleaned,2021-02-11,O. Jasmine
+205,0119211,200,0,1,0,0,0,3,M. paniculata,NA,harv_1,NA,O. Jasmine
+205,0119211,200,0,1,0,0,0,3,M. paniculata,NA,harv_2,NA,O. Jasmine
+205,0119211,200,0,1,0,0,0,3,M. paniculata,NA,harv_3,NA,O. Jasmine
+205,0119211,200,0,1,0,0,0,3,M. paniculata,NA,harv_4,NA,O. Jasmine
+205,0119211,200,0,1,0,0,0,3,M. paniculata,NA,harv_5,NA,O. Jasmine
+205,0119211,200,0,1,0,0,0,3,M. paniculata,0,cleaned,2021-02-17,O. Jasmine
+206,0120211,200,0,1,0,0,0,3,M. paniculata,NA,harv_1,NA,O. Jasmine
+206,0120211,200,0,1,0,0,0,3,M. paniculata,NA,harv_2,NA,O. Jasmine
+206,0120211,200,0,1,0,0,0,3,M. paniculata,NA,harv_3,NA,O. Jasmine
+206,0120211,200,0,1,0,0,0,3,M. paniculata,NA,harv_4,NA,O. Jasmine
+206,0120211,200,0,1,0,0,0,3,M. paniculata,NA,harv_5,NA,O. Jasmine
+206,0120211,200,0,1,0,0,0,3,M. paniculata,0,cleaned,2021-02-19,O. Jasmine
+207,0122211,200,0,0,0,0,0,3,Mix,NA,harv_1,NA,Mix
+207,0122211,200,0,0,0,0,0,3,Mix,NA,harv_2,NA,Mix
+207,0122211,200,0,0,0,0,0,3,Mix,NA,harv_3,NA,Mix
+207,0122211,200,0,0,0,0,0,3,Mix,NA,harv_4,NA,Mix
+207,0122211,200,0,0,0,0,0,3,Mix,NA,harv_5,NA,Mix
+207,0122211,200,0,0,0,0,0,3,Mix,0,cleaned,2021-02-22,Mix
+208,0129211,200,0,0,0,0,0,3,Mix,NA,harv_1,NA,Mix
+208,0129211,200,0,0,0,0,0,3,Mix,NA,harv_2,NA,Mix
+208,0129211,200,0,0,0,0,0,3,Mix,NA,harv_3,NA,Mix
+208,0129211,200,0,0,0,0,0,3,Mix,NA,harv_4,NA,Mix
+208,0129211,200,0,0,0,0,0,3,Mix,NA,harv_5,NA,Mix
+208,0129211,200,0,0,0,0,0,3,Mix,0,cleaned,2021-02-22,Mix
+209,0127211,200,10,0,28,0,ANTS,3,Mix,NA,harv_1,NA,Mix
+209,0127211,200,10,0,28,0,ANTS,3,Mix,NA,harv_2,NA,Mix
+209,0127211,200,10,0,28,0,ANTS,3,Mix,NA,harv_3,NA,Mix
+209,0127211,200,10,0,28,0,ANTS,3,Mix,NA,harv_4,NA,Mix
+209,0127211,200,10,0,28,0,ANTS,3,Mix,NA,harv_5,NA,Mix
+209,0127211,200,10,0,28,0,ANTS,3,Mix,10,cleaned,2021-02-24,Mix
+210,0129211,200,1,0,32,0,APHIDS,3,M. paniculata,1,harv_1,2021-02-21,O. Jasmine
+210,0129211,200,1,0,32,0,APHIDS,3,M. paniculata,NA,harv_2,NA,O. Jasmine
+210,0129211,200,1,0,32,0,APHIDS,3,M. paniculata,NA,harv_3,NA,O. Jasmine
+210,0129211,200,1,0,32,0,APHIDS,3,M. paniculata,NA,harv_4,NA,O. Jasmine
+210,0129211,200,1,0,32,0,APHIDS,3,M. paniculata,NA,harv_5,NA,O. Jasmine
+210,0129211,200,1,0,32,0,APHIDS,3,M. paniculata,0,cleaned,2021-02-26,O. Jasmine
+211,0201211,200,168,0,228,0,APHIDS,3,M. paniculata,10,harv_1,2021-02-23,O. Jasmine
+211,0201211,200,168,0,228,0,APHIDS,3,M. paniculata,25,harv_2,2021-02-24,O. Jasmine
+211,0201211,200,168,0,228,0,APHIDS,3,M. paniculata,18,harv_3,2021-02-25,O. Jasmine
+211,0201211,200,168,0,228,0,APHIDS,3,M. paniculata,25,harv_4,2021-02-26,O. Jasmine
+211,0201211,200,168,0,228,0,APHIDS,3,M. paniculata,NA,harv_5,NA,O. Jasmine
+211,0201211,200,168,0,228,0,APHIDS,3,M. paniculata,90,cleaned,2021-03-01,O. Jasmine
+212,0203211,200,173,0,200,0,APHIDS,3,M. paniculata,2,harv_1,2021-02-24,O. Jasmine
+212,0203211,200,173,0,200,0,APHIDS,3,M. paniculata,1,harv_2,2021-02-26,O. Jasmine
+212,0203211,200,173,0,200,0,APHIDS,3,M. paniculata,51,harv_3,2021-03-01,O. Jasmine
+212,0203211,200,173,0,200,0,APHIDS,3,M. paniculata,32,harv_4,2021-03-02,O. Jasmine
+212,0203211,200,173,0,200,0,APHIDS,3,M. paniculata,31,harv_5,2021-03-03,O. Jasmine
+212,0203211,200,173,0,200,0,APHIDS,3,M. paniculata,56,cleaned,2021-03-04,O. Jasmine
+201,0205211,200,22,0,200,0,0,3,M. paniculata,14,harv_1,2021-03-01,O. Jasmine
+201,0205211,200,22,0,200,0,0,3,M. paniculata,8,harv_2,2021-03-02,O. Jasmine
+201,0205211,200,22,0,200,0,0,3,M. paniculata,NA,harv_3,NA,O. Jasmine
+201,0205211,200,22,0,200,0,0,3,M. paniculata,NA,harv_4,NA,O. Jasmine
+201,0205211,200,22,0,200,0,0,3,M. paniculata,NA,harv_5,NA,O. Jasmine
+201,0205211,200,22,0,200,0,0,3,M. paniculata,0,cleaned,2021-03-08,O. Jasmine
+202,0208211,50,42,0,50,0,0,3,M. paniculata,6,harv_1,2021-03-04,O. Jasmine
+202,0208211,50,42,0,50,0,0,3,M. paniculata,17,harv_2,2021-03-05,O. Jasmine
+202,0208211,50,42,0,50,0,0,3,M. paniculata,9,harv_3,2021-03-08,O. Jasmine
+202,0208211,50,42,0,50,0,0,3,M. paniculata,NA,harv_4,NA,O. Jasmine
+202,0208211,50,42,0,50,0,0,3,M. paniculata,NA,harv_5,NA,O. Jasmine
+202,0208211,50,42,0,50,0,0,3,M. paniculata,10,cleaned,2021-03-09,O. Jasmine
+203,0216211,81,728,0,400,0,0,3,M. paniculata,11,harv_1,2021-03-08,O. Jasmine
+203,0216211,81,728,0,400,0,0,3,M. paniculata,25,harv_2,2021-03-09,O. Jasmine
+203,0216211,81,728,0,400,0,0,3,M. paniculata,34,harv_3,2021-03-10,O. Jasmine
+203,0216211,81,728,0,400,0,0,3,M. paniculata,72,harv_4,2021-03-11,O. Jasmine
+203,0216211,81,728,0,400,0,0,3,M. paniculata,83,harv_5,2021-03-12,O. Jasmine
+203,0216211,81,728,0,400,0,0,3,M. paniculata,503,cleaned,2021-03-16,O. Jasmine
+204,0219211,100,1103,0,200,0,0,3,M. paniculata,5,harv_1,2021-03-10,O. Jasmine
+204,0219211,100,1103,0,200,0,0,3,M. paniculata,11,harv_2,2021-03-11,O. Jasmine
+204,0219211,100,1103,0,200,0,0,3,M. paniculata,35,harv_3,2021-03-12,O. Jasmine
+204,0219211,100,1103,0,200,0,0,3,M. paniculata,464,harv_4,2021-03-15,O. Jasmine
+204,0219211,100,1103,0,200,0,0,3,M. paniculata,143,harv_5,2021-03-16,O. Jasmine
+204,0219211,100,1103,0,200,0,0,3,M. paniculata,445,cleaned,2021-03-19,O. Jasmine
+205,0223211,60,759,0,180,0,APHIDS,3,M. paniculata,71,harv_1,2021-03-15,O. Jasmine
+205,0223211,60,759,0,180,0,APHIDS,3,M. paniculata,69,harv_2,2021-03-16,O. Jasmine
+205,0223211,60,759,0,180,0,APHIDS,3,M. paniculata,127,harv_3,2021-03-17,O. Jasmine
+205,0223211,60,759,0,180,0,APHIDS,3,M. paniculata,137,harv_4,2021-03-18,O. Jasmine
+205,0223211,60,759,0,180,0,APHIDS,3,M. paniculata,77,harv_5,2021-03-19,O. Jasmine
+205,0223211,60,759,0,180,0,APHIDS,3,M. paniculata,278,cleaned,2021-03-23,O. Jasmine
+206,0301211,86,1569,0,1000,0,APHIDS,3,M. paniculata,125,harv_1,2021-03-22,O. Jasmine
+206,0301211,86,1569,0,1000,0,APHIDS,3,M. paniculata,122,harv_2,2021-03-23,O. Jasmine
+206,0301211,86,1569,0,1000,0,APHIDS,3,M. paniculata,98,harv_3,2021-03-24,O. Jasmine
+206,0301211,86,1569,0,1000,0,APHIDS,3,M. paniculata,80,harv_4,2021-03-25,O. Jasmine
+206,0301211,86,1569,0,1000,0,APHIDS,3,M. paniculata,118,harv_5,2021-03-26,O. Jasmine
+206,0301211,86,1569,0,1000,0,APHIDS,3,M. paniculata,1026,cleaned,2021-03-31,O. Jasmine
+210,0303211,130,233,0,200,0,APHIDS,3,M. paniculata,40,harv_1,2021-03-22,O. Jasmine
+210,0303211,130,233,0,200,0,APHIDS,3,M. paniculata,2,harv_2,2021-03-23,O. Jasmine
+210,0303211,130,233,0,200,0,APHIDS,3,M. paniculata,22,harv_3,2021-03-25,O. Jasmine
+210,0303211,130,233,0,200,0,APHIDS,3,M. paniculata,18,harv_4,2021-03-26,O. Jasmine
+210,0303211,130,233,0,200,0,APHIDS,3,M. paniculata,50,harv_5,2021-03-29,O. Jasmine
+210,0303211,130,233,0,200,0,APHIDS,3,M. paniculata,101,cleaned,2021-04-01,O. Jasmine
+128,1018211,200,1485,0,300,0,0,NA,Mix,86,harv_1,2021-11-08,Mix
+128,1018211,200,1485,0,300,0,0,NA,Mix,233,harv_2,2021-11-09,Mix
+128,1018211,200,1485,0,300,0,0,NA,Mix,218,harv_3,2021-11-10,Mix
+128,1018211,200,1485,0,300,0,0,NA,Mix,217,harv_4,2021-11-11,Mix
+128,1018211,200,1485,0,300,0,0,NA,Mix,195,harv_5,2021-11-12,Mix
+128,1018211,200,1485,0,300,0,0,NA,Mix,536,cleaned,2021-11-17,Mix
+129,1021211,200,122,0,1800,0,0,NA,Mix,17,harv_1,2021-11-12,Mix
+129,1021211,200,122,0,1800,0,0,NA,Mix,38,harv_2,2021-11-15,Mix
+129,1021211,200,122,0,1800,0,0,NA,Mix,12,harv_3,2021-11-16,Mix
+129,1021211,200,122,0,1800,0,0,NA,Mix,11,harv_4,2021-11-17,Mix
+129,1021211,200,122,0,1800,0,0,NA,Mix,22,harv_5,2021-11-18,Mix
+129,1021211,200,122,0,1800,0,0,NA,Mix,22,cleaned,2021-11-18,Mix
+130,1025211,200,1135,0,400,0,0,NA,Mix,206,harv_1,2021-11-16,Mix
+130,1025211,200,1135,0,400,0,0,NA,Mix,215,harv_2,2021-11-17,Mix
+130,1025211,200,1135,0,400,0,0,NA,Mix,250,harv_3,2021-11-18,Mix
+130,1025211,200,1135,0,400,0,0,NA,Mix,167,harv_4,2021-11-19,Mix
+130,1025211,200,1135,0,400,0,0,NA,Mix,NA,harv_5,NA,Mix
+130,1025211,200,1135,0,400,0,0,NA,Mix,297,cleaned,2021-11-22,Mix
+131,1028211,300,271,0,900,0,0,NA,Mix,28,harv_1,2021-11-18,Mix
+131,1028211,300,271,0,900,0,0,NA,Mix,33,harv_2,2021-11-19,Mix
+131,1028211,300,271,0,900,0,0,NA,Mix,72,harv_3,2021-11-22,Mix
+131,1028211,300,271,0,900,0,0,NA,Mix,44,harv_4,2021-11-23,Mix
+131,1028211,300,271,0,900,0,0,NA,Mix,NA,harv_5,NA,Mix
+131,1028211,300,271,0,900,0,0,NA,Mix,94,cleaned,2021-11-24,Mix
+132,1102211,200,334,0,1000,0,0,NA,Mix,31,harv_1,2021-11-22,Mix
+132,1102211,200,334,0,1000,0,0,NA,Mix,56,harv_2,2021-11-23,Mix
+132,1102211,200,334,0,1000,0,0,NA,Mix,87,harv_3,2021-11-24,Mix
+132,1102211,200,334,0,1000,0,0,NA,Mix,59,harv_4,2021-11-30,Mix
+132,1102211,200,334,0,1000,0,0,NA,Mix,NA,harv_5,NA,Mix
+132,1102211,200,334,0,1000,0,0,NA,Mix,101,cleaned,2021-12-01,Mix
+133,1108211,200,752,1,2000,0,0,NA,Mix,14,harv_1,2021-11-29,Mix
+133,1108211,200,752,1,2000,0,0,NA,Mix,49,harv_2,2021-11-30,Mix
+133,1108211,200,752,1,2000,0,0,NA,Mix,89,harv_3,2021-12-01,Mix
+133,1108211,200,752,1,2000,0,0,NA,Mix,100,harv_4,2021-12-02,Mix
+133,1108211,200,752,1,2000,0,0,NA,Mix,100,harv_5,2021-12-03,Mix
+133,1108211,200,752,1,2000,0,0,NA,Mix,400,cleaned,2021-12-06,Mix
+134,1112211,200,227,0,300,0,0,NA,Mix,12,harv_1,2021-12-06,Mix
+134,1112211,200,227,0,300,0,0,NA,Mix,92,harv_2,2021-12-07,Mix
+134,1112211,200,227,0,300,0,0,NA,Mix,37,harv_3,2021-12-08,Mix
+134,1112211,200,227,0,300,0,0,NA,Mix,NA,harv_4,NA,Mix
+134,1112211,200,227,0,300,0,0,NA,Mix,NA,harv_5,NA,Mix
+134,1112211,200,227,0,300,0,0,NA,Mix,86,cleaned,2021-12-09,Mix
+135,1115211,200,1619,0,400,0,0,NA,Mix,108,harv_1,2021-12-07,Mix
+135,1115211,200,1619,0,400,0,0,NA,Mix,163,harv_2,2021-12-08,Mix
+135,1115211,200,1619,0,400,0,0,NA,Mix,138,harv_3,NA,Mix
+135,1115211,200,1619,0,400,0,0,NA,Mix,100,harv_4,2021-12-10,Mix
+135,1115211,200,1619,0,400,0,0,NA,Mix,408,harv_5,2021-12-13,Mix
+135,1115211,200,1619,0,400,0,0,NA,Mix,702,cleaned,2021-12-20,Mix
+136,1119211,200,1016,0,400,0,0,NA,Mix,192,harv_1,2021-12-13,Mix
+136,1119211,200,1016,0,400,0,0,NA,Mix,205,harv_2,2021-12-14,Mix
+136,1119211,200,1016,0,400,0,0,NA,Mix,151,harv_3,2021-12-15,Mix
+136,1119211,200,1016,0,400,0,0,NA,Mix,128,harv_4,2021-12-16,Mix
+136,1119211,200,1016,0,400,0,0,NA,Mix,40,harv_5,2021-12-17,Mix
+136,1119211,200,1016,0,400,0,0,NA,Mix,300,cleaned,2021-12-21,Mix
+120,1124211,300,803,0,1500,0,0,NA,B. koenigii,25,harv_1,2021-12-14,Curry
+120,1124211,300,803,0,1500,0,0,NA,B. koenigii,12,harv_2,2021-12-15,Curry
+120,1124211,300,803,0,1500,0,0,NA,B. koenigii,61,harv_3,2021-12-16,Curry
+120,1124211,300,803,0,1500,0,0,NA,B. koenigii,26,harv_4,2021-12-17,Curry
+120,1124211,300,803,0,1500,0,0,NA,B. koenigii,174,harv_5,2021-12-20,Curry
+120,1124211,300,803,0,1500,0,0,NA,B. koenigii,505,cleaned,2021-12-27,Curry
+121,1129211,600,265,0,300,0,0,NA,Mix,60,harv_1,2021-12-21,Mix
+121,1129211,600,265,0,300,0,0,NA,Mix,26,harv_2,2021-12-28,Mix
+121,1129211,600,265,0,300,0,0,NA,Mix,84,harv_3,2021-12-27,Mix
+121,1129211,600,265,0,300,0,0,NA,Mix,NA,harv_4,NA,Mix
+121,1129211,600,265,0,300,0,0,NA,Mix,NA,harv_5,NA,Mix
+121,1129211,600,265,0,300,0,0,NA,Mix,95,cleaned,2021-12-28,Mix
 122,1202211,300,623,0,2000,0,0,1,M. paniculata,152,harv_1,2022-12-27,O. Jasmine
 122,1202211,300,623,0,2000,0,0,1,M. paniculata,132,harv_2,2022-12-28,O. Jasmine
 122,1202211,300,623,0,2000,0,0,1,M. paniculata,104,harv_3,2022-12-29,O. Jasmine
@@ -377,129 +443,129 @@ cage,ovi_id,tam_add,total,pd,psy,yld,pests,barn,plant,tam_ct,harvest,date,plant_
 128,1227211,300,259,0,212,0,0,1,Mix,NA,harv_4,NA,Mix
 128,1227211,300,259,0,212,0,0,1,Mix,NA,harv_5,NA,Mix
 128,1227211,300,259,0,212,0,0,1,Mix,75,cleaned,2022-02-01,Mix
-129,104221,290,1620,0,650,0,0,1,Mix,127,harv_1,2022-01-31,Mix
-129,104221,290,1620,0,650,0,0,1,Mix,125,harv_2,2022-02-01,Mix
-129,104221,290,1620,0,650,0,0,1,Mix,555,harv_3,2022-02-07,Mix
-129,104221,290,1620,0,650,0,0,1,Mix,345,harv_4,2022-02-08,Mix
-129,104221,290,1620,0,650,0,0,1,Mix,221,harv_5,2022-02-09,Mix
-129,104221,290,1620,0,650,0,0,1,Mix,247,cleaned,2022-02-11,Mix
-130,110221,200,933,0,1000,0,0,1,Mix,115,harv_1,2022-02-07,Mix
-130,110221,200,933,0,1000,0,0,1,Mix,155,harv_2,2022-02-08,Mix
-130,110221,200,933,0,1000,0,0,1,Mix,179,harv_3,2022-02-09,Mix
-130,110221,200,933,0,1000,0,0,1,Mix,43,harv_4,2022-02-10,Mix
-130,110221,200,933,0,1000,0,0,1,Mix,110,harv_5,2022-02-11,Mix
-130,110221,200,933,0,1000,0,0,1,Mix,331,cleaned,2022-02-15,Mix
-131,117221,400,1363,0,350,0,0,1,Mix,74,harv_1,2022-02-14,Mix
-131,117221,400,1363,0,350,0,0,1,Mix,251,harv_2,2022-02-15,Mix
-131,117221,400,1363,0,350,0,0,1,Mix,145,harv_3,2022-02-16,Mix
-131,117221,400,1363,0,350,0,0,1,Mix,512,harv_4,2022-02-21,Mix
-131,117221,400,1363,0,350,0,0,1,Mix,154,harv_5,2022-02-22,Mix
-131,117221,400,1363,0,350,0,0,1,Mix,227,cleaned,2022-02-23,Mix
-120,1227212,300,298,0,0,NA,NA,1,Mix,32,harv_1,2022-02-16,Mix
-120,1227212,300,298,0,0,NA,NA,1,Mix,88,harv_2,2022-02-21,Mix
-120,1227212,300,298,0,0,NA,NA,1,Mix,46,harv_3,2022-02-22,Mix
-120,1227212,300,298,0,0,NA,NA,1,Mix,42,harv_4,2022-02-23,Mix
-120,1227212,300,298,0,0,NA,NA,1,Mix,0,harv_5,NA,Mix
-120,1227212,300,298,0,0,NA,NA,1,Mix,90,cleaned,2022-03-01,Mix
-132,215221,300,257,NA,NA,NA,NA,1,Mix,137,harv_1,2022-03-14,Mix
-132,215221,300,257,NA,NA,NA,NA,1,Mix,120,harv_2,2022-03-17,Mix
-132,215221,300,257,NA,NA,NA,NA,1,Mix,NA,harv_3,NA,Mix
-132,215221,300,257,NA,NA,NA,NA,1,Mix,NA,harv_4,NA,Mix
-132,215221,300,257,NA,NA,NA,NA,1,Mix,NA,harv_5,NA,Mix
-132,215221,300,257,NA,NA,NA,NA,1,Mix,NA,cleaned,NA,Mix
-133,215221,300,0,NA,NA,NA,NA,1,Mix,NA,harv_1,NA,Mix
-133,215221,300,0,NA,NA,NA,NA,1,Mix,NA,harv_2,NA,Mix
-133,215221,300,0,NA,NA,NA,NA,1,Mix,NA,harv_3,NA,Mix
-133,215221,300,0,NA,NA,NA,NA,1,Mix,NA,harv_4,NA,Mix
-133,215221,300,0,NA,NA,NA,NA,1,Mix,NA,harv_5,NA,Mix
-133,215221,300,0,NA,NA,NA,NA,1,Mix,NA,cleaned,NA,Mix
-134,218221,240,143,NA,NA,NA,NA,1,Mix,63,harv_1,2020-03-14,Mix
-134,218221,240,143,NA,NA,NA,NA,1,Mix,80,harv_2,2022-03-17,Mix
-134,218221,240,143,NA,NA,NA,NA,1,Mix,NA,harv_3,NA,Mix
-134,218221,240,143,NA,NA,NA,NA,1,Mix,NA,harv_4,NA,Mix
-134,218221,240,143,NA,NA,NA,NA,1,Mix,NA,harv_5,NA,Mix
-134,218221,240,143,NA,NA,NA,NA,1,Mix,NA,cleaned,NA,Mix
-121,222221,180,315,0,200,0,0,1,M. paniculata,139,harv_1,2022-03-21,O. Jasmine
-121,222221,180,315,0,200,0,0,1,M. paniculata,41,harv_2,2022-03-22,O. Jasmine
-121,222221,180,315,0,200,0,0,1,M. paniculata,88,harv_3,2022-03-28,O. Jasmine
-121,222221,180,315,0,200,0,0,1,M. paniculata,36,harv_4,2022-03-29,O. Jasmine
-121,222221,180,315,0,200,0,0,1,M. paniculata,11,harv_5,2022-03-03,O. Jasmine
-121,222221,180,315,0,200,0,0,1,M. paniculata,0,cleaned,2022-04-04,O. Jasmine
-122,302221,200,392,0,400,0,0,1,M. paniculata,102,harv_1,2022-03-28,O. Jasmine
-122,302221,200,392,0,400,0,0,1,M. paniculata,150,harv_2,2022-03-29,O. Jasmine
-122,302221,200,392,0,400,0,0,1,M. paniculata,70,harv_3,2022-03-31,O. Jasmine
-122,302221,200,392,0,400,0,0,1,M. paniculata,57,harv_4,2022-04-04,O. Jasmine
-122,302221,200,392,0,400,0,0,1,M. paniculata,10,harv_5,2022-04-11,O. Jasmine
-122,302221,200,392,0,400,0,0,1,M. paniculata,3,cleaned,2022-04-26,O. Jasmine
-123,302221,200,NA,NA,NA,NA,NA,NA,M. paniculata,102,harv_1,2022-03-28,O. Jasmine
-123,302221,200,NA,NA,NA,NA,NA,NA,M. paniculata,170,harv_2,2022-03-29,O. Jasmine
-123,302221,200,NA,NA,NA,NA,NA,NA,M. paniculata,234,harv_3,2022-03-31,O. Jasmine
-123,302221,200,NA,NA,NA,NA,NA,NA,M. paniculata,513,harv_4,2022-04-04,O. Jasmine
-123,302221,200,NA,NA,NA,NA,NA,NA,M. paniculata,50,harv_5,2022-04-06,O. Jasmine
-123,302221,200,NA,NA,NA,NA,NA,NA,M. paniculata,NA,cleaned,NA,O. Jasmine
-124,308221,200,NA,NA,NA,NA,NA,NA,M. paniculata,408,harv_1,2022-04-04,O. Jasmine
-124,308221,200,NA,NA,NA,NA,NA,NA,M. paniculata,98,harv_2,2022-04-06,O. Jasmine
-124,308221,200,NA,NA,NA,NA,NA,NA,M. paniculata,147,harv_3,2022-04-11,O. Jasmine
-124,308221,200,NA,NA,NA,NA,NA,NA,M. paniculata,40,harv_4,2022-04-18,O. Jasmine
-124,308221,200,NA,NA,NA,NA,NA,NA,M. paniculata,NA,harv_5,NA,O. Jasmine
-124,308221,200,NA,NA,NA,NA,NA,NA,M. paniculata,NA,cleaned,NA,O. Jasmine
-125,311221,200,NA,NA,NA,NA,NA,NA,M. paniculata,369,harv_1,2022-04-11,O. Jasmine
-125,311221,200,NA,NA,NA,NA,NA,NA,M. paniculata,27,harv_2,2022-04-18,O. Jasmine
-125,311221,200,NA,NA,NA,NA,NA,NA,M. paniculata,16,harv_3,2022-04-25,O. Jasmine
-125,311221,200,NA,NA,NA,NA,NA,NA,M. paniculata,NA,harv_4,NA,O. Jasmine
-125,311221,200,NA,NA,NA,NA,NA,NA,M. paniculata,NA,harv_5,NA,O. Jasmine
-125,311221,200,NA,NA,NA,NA,NA,NA,M. paniculata,NA,cleaned,NA,O. Jasmine
-126,314221,200,NA,NA,NA,NA,NA,NA,M. paniculata,366,harv_1,2022-04-11,O. Jasmine
-126,314221,200,NA,NA,NA,NA,NA,NA,M. paniculata,170,harv_2,2022-04-18,O. Jasmine
-126,314221,200,NA,NA,NA,NA,NA,NA,M. paniculata,16,harv_3,2022-04-26,O. Jasmine
-126,314221,200,NA,NA,NA,NA,NA,NA,M. paniculata,NA,harv_4,NA,O. Jasmine
-126,314221,200,NA,NA,NA,NA,NA,NA,M. paniculata,NA,harv_5,NA,O. Jasmine
-126,314221,200,NA,NA,NA,NA,NA,NA,M. paniculata,NA,cleaned,NA,O. Jasmine
-127,315221,200,NA,NA,NA,NA,NA,NA,M. paniculata,285,harv_1,2022-04-11,O. Jasmine
-127,315221,200,NA,NA,NA,NA,NA,NA,M. paniculata,254,harv_2,2022-04-18,O. Jasmine
-127,315221,200,NA,NA,NA,NA,NA,NA,M. paniculata,46,harv_3,2022-04-22,O. Jasmine
-127,315221,200,NA,NA,NA,NA,NA,NA,M. paniculata,107,harv_4,2022-04-25,O. Jasmine
-127,315221,200,NA,NA,NA,NA,NA,NA,M. paniculata,NA,harv_5,NA,O. Jasmine
-127,315221,200,NA,NA,NA,NA,NA,NA,M. paniculata,NA,cleaned,NA,O. Jasmine
-135,307221,200,NA,NA,NA,NA,NA,NA,M. paniculata,493,harv_1,2022-04-04,O. Jasmine
-135,307221,200,NA,NA,NA,NA,NA,NA,M. paniculata,52,harv_2,2022-04-06,O. Jasmine
-135,307221,200,NA,NA,NA,NA,NA,NA,M. paniculata,224,harv_3,2022-04-11,O. Jasmine
-135,307221,200,NA,NA,NA,NA,NA,NA,M. paniculata,NA,harv_4,NA,O. Jasmine
-135,307221,200,NA,NA,NA,NA,NA,NA,M. paniculata,NA,harv_5,NA,O. Jasmine
-135,307221,200,NA,NA,NA,NA,NA,NA,M. paniculata,NA,cleaned,NA,O. Jasmine
-128,318221,200,NA,NA,NA,NA,NA,NA,M. paniculata,3,harv_1,2022-04-11,O. Jasmine
-128,318221,200,NA,NA,NA,NA,NA,NA,M. paniculata,273,harv_2,2022-04-18,O. Jasmine
-128,318221,200,NA,NA,NA,NA,NA,NA,M. paniculata,154,harv_3,2022-04-22,O. Jasmine
-128,318221,200,NA,NA,NA,NA,NA,NA,M. paniculata,282,harv_4,2022-04-25,O. Jasmine
-128,318221,200,NA,NA,NA,NA,NA,NA,M. paniculata,48,harv_5,2022-04-26,O. Jasmine
-128,318221,200,NA,NA,NA,NA,NA,NA,M. paniculata,NA,cleaned,NA,O. Jasmine
-129,322221,200,NA,NA,NA,NA,NA,NA,Mix,24,harv_1,2022-04-18,Mix
-129,322221,200,NA,NA,NA,NA,NA,NA,Mix,105,harv_2,2022-04-25,Mix
-129,322221,200,NA,NA,NA,NA,NA,NA,Mix,35,harv_3,2022-04-26,Mix
-129,322221,200,NA,NA,NA,NA,NA,NA,Mix,NA,harv_4,NA,Mix
-129,322221,200,NA,NA,NA,NA,NA,NA,Mix,NA,harv_5,NA,Mix
-129,322221,200,NA,NA,NA,NA,NA,NA,Mix,NA,cleaned,NA,Mix
-301,328221,200,NA,NA,NA,NA,NA,3,Mix,651,harv_1,2022-04-25,Mix
-301,328221,200,NA,NA,NA,NA,NA,3,Mix,180,harv_2,2022-04-26,Mix
-301,328221,200,NA,NA,NA,NA,NA,3,Mix,200,harv_3,2022-04-28,Mix
-301,328221,200,NA,NA,NA,NA,NA,3,Mix,NA,harv_4,NA,Mix
-301,328221,200,NA,NA,NA,NA,NA,3,Mix,NA,harv_5,NA,Mix
-301,328221,200,NA,NA,NA,NA,NA,3,Mix,NA,cleaned,NA,Mix
-302,401221,200,NA,NA,NA,NA,NA,3,M. paniculata,NA,harv_1,NA,O. Jasmine
-302,401221,200,NA,NA,NA,NA,NA,3,M. paniculata,NA,harv_2,NA,O. Jasmine
-302,401221,200,NA,NA,NA,NA,NA,3,M. paniculata,NA,harv_3,NA,O. Jasmine
-302,401221,200,NA,NA,NA,NA,NA,3,M. paniculata,NA,harv_4,NA,O. Jasmine
-302,401221,200,NA,NA,NA,NA,NA,3,M. paniculata,NA,harv_5,NA,O. Jasmine
-302,401221,200,NA,NA,NA,NA,NA,3,M. paniculata,NA,cleaned,NA,O. Jasmine
-303,409221,200,NA,NA,NA,NA,NA,3,M. paniculata,NA,harv_1,NA,O. Jasmine
-303,409221,200,NA,NA,NA,NA,NA,3,M. paniculata,NA,harv_2,NA,O. Jasmine
-303,409221,200,NA,NA,NA,NA,NA,3,M. paniculata,NA,harv_3,NA,O. Jasmine
-303,409221,200,NA,NA,NA,NA,NA,3,M. paniculata,NA,harv_4,NA,O. Jasmine
-303,409221,200,NA,NA,NA,NA,NA,3,M. paniculata,NA,harv_5,NA,O. Jasmine
-303,409221,200,NA,NA,NA,NA,NA,3,M. paniculata,NA,cleaned,NA,O. Jasmine
-304,413221,200,NA,NA,NA,NA,NA,3,Mix,NA,harv_1,NA,Mix
-304,413221,200,NA,NA,NA,NA,NA,3,Mix,NA,harv_2,NA,Mix
-304,413221,200,NA,NA,NA,NA,NA,3,Mix,NA,harv_3,NA,Mix
-304,413221,200,NA,NA,NA,NA,NA,3,Mix,NA,harv_4,NA,Mix
-304,413221,200,NA,NA,NA,NA,NA,3,Mix,NA,harv_5,NA,Mix
-304,413221,200,NA,NA,NA,NA,NA,3,Mix,NA,cleaned,NA,Mix
+129,0104221,290,1620,0,650,0,0,1,Mix,127,harv_1,2022-01-31,Mix
+129,0104221,290,1620,0,650,0,0,1,Mix,125,harv_2,2022-02-01,Mix
+129,0104221,290,1620,0,650,0,0,1,Mix,555,harv_3,2022-02-07,Mix
+129,0104221,290,1620,0,650,0,0,1,Mix,345,harv_4,2022-02-08,Mix
+129,0104221,290,1620,0,650,0,0,1,Mix,221,harv_5,2022-02-09,Mix
+129,0104221,290,1620,0,650,0,0,1,Mix,247,cleaned,2022-02-11,Mix
+130,0110221,200,933,0,1000,0,0,1,Mix,115,harv_1,2022-02-07,Mix
+130,0110221,200,933,0,1000,0,0,1,Mix,155,harv_2,2022-02-08,Mix
+130,0110221,200,933,0,1000,0,0,1,Mix,179,harv_3,2022-02-09,Mix
+130,0110221,200,933,0,1000,0,0,1,Mix,43,harv_4,2022-02-10,Mix
+130,0110221,200,933,0,1000,0,0,1,Mix,110,harv_5,2022-02-11,Mix
+130,0110221,200,933,0,1000,0,0,1,Mix,331,cleaned,2022-02-15,Mix
+131,0117221,400,1363,0,350,0,0,1,Mix,74,harv_1,2022-02-14,Mix
+131,0117221,400,1363,0,350,0,0,1,Mix,251,harv_2,2022-02-15,Mix
+131,0117221,400,1363,0,350,0,0,1,Mix,145,harv_3,2022-02-16,Mix
+131,0117221,400,1363,0,350,0,0,1,Mix,512,harv_4,2022-02-21,Mix
+131,0117221,400,1363,0,350,0,0,1,Mix,154,harv_5,2022-02-22,Mix
+131,0117221,400,1363,0,350,0,0,1,Mix,227,cleaned,2022-02-23,Mix
+120,1227212,300,298,0,0,0,0,1,Mix,32,harv_1,2022-02-16,Mix
+120,1227212,300,298,0,0,0,0,1,Mix,88,harv_2,2022-02-21,Mix
+120,1227212,300,298,0,0,0,0,1,Mix,46,harv_3,2022-02-22,Mix
+120,1227212,300,298,0,0,0,0,1,Mix,42,harv_4,2022-02-23,Mix
+120,1227212,300,298,0,0,0,0,1,Mix,0,harv_5,NA,Mix
+120,1227212,300,298,0,0,0,0,1,Mix,90,cleaned,2022-03-01,Mix
+132,0215221,300,834,0,100,0,0,1,Mix,137,harv_1,2022-03-14,Mix
+132,0215221,300,834,0,100,0,0,1,Mix,120,harv_2,2022-03-17,Mix
+132,0215221,300,834,0,100,0,0,1,Mix,295,harv_3,2022-03-21,Mix
+132,0215221,300,834,0,100,0,0,1,Mix,84,harv_4,2022-03-22,Mix
+132,0215221,300,834,0,100,0,0,1,Mix,72,harv_5,2022-03-23,Mix
+132,0215221,300,834,0,100,0,0,1,Mix,126,cleaned,2022-03-28,Mix
+133,0215221,300,412,0,500,0,0,1,Mix,55,harv_1,2022-03-21,Mix
+133,0215221,300,412,0,500,0,0,1,Mix,55,harv_2,2022-03-22,Mix
+133,0215221,300,412,0,500,0,0,1,Mix,143,harv_3,2022-03-28,Mix
+133,0215221,300,412,0,500,0,0,1,Mix,52,harv_4,2022-03-29,Mix
+133,0215221,300,412,0,500,0,0,1,Mix,78,harv_5,2022-03-21,Mix
+133,0215221,300,412,0,500,0,0,1,Mix,29,cleaned,2022-04-04,Mix
+134,0218221,240,393,0,200,0,0,1,Mix,63,harv_1,2020-03-14,Mix
+134,0218221,240,393,0,200,0,0,1,Mix,80,harv_2,2022-03-17,Mix
+134,0218221,240,393,0,200,0,0,1,Mix,111,harv_3,2022-03-21,Mix
+134,0218221,240,393,0,200,0,0,1,Mix,20,harv_4,2022-03-22,Mix
+134,0218221,240,393,0,200,0,0,1,Mix,46,harv_5,2022-03-28,Mix
+134,0218221,240,393,0,200,0,0,1,Mix,73,cleaned,2022-04-04,Mix
+121,0222221,180,315,0,200,0,0,1,M. paniculata,139,harv_1,2022-03-21,O. Jasmine
+121,0222221,180,315,0,200,0,0,1,M. paniculata,41,harv_2,2022-03-22,O. Jasmine
+121,0222221,180,315,0,200,0,0,1,M. paniculata,88,harv_3,2022-03-28,O. Jasmine
+121,0222221,180,315,0,200,0,0,1,M. paniculata,36,harv_4,2022-03-29,O. Jasmine
+121,0222221,180,315,0,200,0,0,1,M. paniculata,11,harv_5,2022-03-03,O. Jasmine
+121,0222221,180,315,0,200,0,0,1,M. paniculata,0,cleaned,2022-04-04,O. Jasmine
+122,0302221,200,392,0,400,0,0,1,M. paniculata,102,harv_1,2022-03-28,O. Jasmine
+122,0302221,200,392,0,400,0,0,1,M. paniculata,150,harv_2,2022-03-29,O. Jasmine
+122,0302221,200,392,0,400,0,0,1,M. paniculata,70,harv_3,2022-03-31,O. Jasmine
+122,0302221,200,392,0,400,0,0,1,M. paniculata,57,harv_4,2022-04-04,O. Jasmine
+122,0302221,200,392,0,400,0,0,1,M. paniculata,10,harv_5,2022-04-11,O. Jasmine
+122,0302221,200,392,0,400,0,0,1,M. paniculata,3,cleaned,2022-04-26,O. Jasmine
+123,0302221,200,NA,NA,NA,NA,NA,NA,M. paniculata,102,harv_1,2022-03-28,O. Jasmine
+123,0302221,200,NA,NA,NA,NA,NA,NA,M. paniculata,170,harv_2,2022-03-29,O. Jasmine
+123,0302221,200,NA,NA,NA,NA,NA,NA,M. paniculata,234,harv_3,2022-03-31,O. Jasmine
+123,0302221,200,NA,NA,NA,NA,NA,NA,M. paniculata,513,harv_4,2022-04-04,O. Jasmine
+123,0302221,200,NA,NA,NA,NA,NA,NA,M. paniculata,50,harv_5,2022-04-06,O. Jasmine
+123,0302221,200,NA,NA,NA,NA,NA,NA,M. paniculata,NA,cleaned,NA,O. Jasmine
+124,0308221,200,NA,NA,NA,NA,NA,NA,M. paniculata,408,harv_1,2022-04-04,O. Jasmine
+124,0308221,200,NA,NA,NA,NA,NA,NA,M. paniculata,98,harv_2,2022-04-06,O. Jasmine
+124,0308221,200,NA,NA,NA,NA,NA,NA,M. paniculata,147,harv_3,2022-04-11,O. Jasmine
+124,0308221,200,NA,NA,NA,NA,NA,NA,M. paniculata,40,harv_4,2022-04-18,O. Jasmine
+124,0308221,200,NA,NA,NA,NA,NA,NA,M. paniculata,NA,harv_5,NA,O. Jasmine
+124,0308221,200,NA,NA,NA,NA,NA,NA,M. paniculata,NA,cleaned,NA,O. Jasmine
+125,0311221,200,NA,NA,NA,NA,NA,NA,M. paniculata,369,harv_1,2022-04-11,O. Jasmine
+125,0311221,200,NA,NA,NA,NA,NA,NA,M. paniculata,27,harv_2,2022-04-18,O. Jasmine
+125,0311221,200,NA,NA,NA,NA,NA,NA,M. paniculata,16,harv_3,2022-04-25,O. Jasmine
+125,0311221,200,NA,NA,NA,NA,NA,NA,M. paniculata,NA,harv_4,NA,O. Jasmine
+125,0311221,200,NA,NA,NA,NA,NA,NA,M. paniculata,NA,harv_5,NA,O. Jasmine
+125,0311221,200,NA,NA,NA,NA,NA,NA,M. paniculata,NA,cleaned,NA,O. Jasmine
+126,0314221,200,NA,NA,NA,NA,NA,NA,M. paniculata,366,harv_1,2022-04-11,O. Jasmine
+126,0314221,200,NA,NA,NA,NA,NA,NA,M. paniculata,170,harv_2,2022-04-18,O. Jasmine
+126,0314221,200,NA,NA,NA,NA,NA,NA,M. paniculata,16,harv_3,2022-04-26,O. Jasmine
+126,0314221,200,NA,NA,NA,NA,NA,NA,M. paniculata,NA,harv_4,NA,O. Jasmine
+126,0314221,200,NA,NA,NA,NA,NA,NA,M. paniculata,NA,harv_5,NA,O. Jasmine
+126,0314221,200,NA,NA,NA,NA,NA,NA,M. paniculata,NA,cleaned,NA,O. Jasmine
+127,0315221,200,NA,NA,NA,NA,NA,NA,M. paniculata,285,harv_1,2022-04-11,O. Jasmine
+127,0315221,200,NA,NA,NA,NA,NA,NA,M. paniculata,254,harv_2,2022-04-18,O. Jasmine
+127,0315221,200,NA,NA,NA,NA,NA,NA,M. paniculata,46,harv_3,2022-04-22,O. Jasmine
+127,0315221,200,NA,NA,NA,NA,NA,NA,M. paniculata,107,harv_4,2022-04-25,O. Jasmine
+127,0315221,200,NA,NA,NA,NA,NA,NA,M. paniculata,NA,harv_5,NA,O. Jasmine
+127,0315221,200,NA,NA,NA,NA,NA,NA,M. paniculata,NA,cleaned,NA,O. Jasmine
+135,0307221,200,NA,NA,NA,NA,NA,NA,M. paniculata,493,harv_1,2022-04-04,O. Jasmine
+135,0307221,200,NA,NA,NA,NA,NA,NA,M. paniculata,52,harv_2,2022-04-06,O. Jasmine
+135,0307221,200,NA,NA,NA,NA,NA,NA,M. paniculata,224,harv_3,2022-04-11,O. Jasmine
+135,0307221,200,NA,NA,NA,NA,NA,NA,M. paniculata,NA,harv_4,NA,O. Jasmine
+135,0307221,200,NA,NA,NA,NA,NA,NA,M. paniculata,NA,harv_5,NA,O. Jasmine
+135,0307221,200,NA,NA,NA,NA,NA,NA,M. paniculata,NA,cleaned,NA,O. Jasmine
+128,0318221,200,NA,NA,NA,NA,NA,NA,M. paniculata,3,harv_1,2022-04-11,O. Jasmine
+128,0318221,200,NA,NA,NA,NA,NA,NA,M. paniculata,273,harv_2,2022-04-18,O. Jasmine
+128,0318221,200,NA,NA,NA,NA,NA,NA,M. paniculata,154,harv_3,2022-04-22,O. Jasmine
+128,0318221,200,NA,NA,NA,NA,NA,NA,M. paniculata,282,harv_4,2022-04-25,O. Jasmine
+128,0318221,200,NA,NA,NA,NA,NA,NA,M. paniculata,48,harv_5,2022-04-26,O. Jasmine
+128,0318221,200,NA,NA,NA,NA,NA,NA,M. paniculata,NA,cleaned,NA,O. Jasmine
+129,0322221,200,NA,NA,NA,NA,NA,NA,Mix,24,harv_1,2022-04-18,Mix
+129,0322221,200,NA,NA,NA,NA,NA,NA,Mix,105,harv_2,2022-04-25,Mix
+129,0322221,200,NA,NA,NA,NA,NA,NA,Mix,35,harv_3,2022-04-26,Mix
+129,0322221,200,NA,NA,NA,NA,NA,NA,Mix,NA,harv_4,NA,Mix
+129,0322221,200,NA,NA,NA,NA,NA,NA,Mix,NA,harv_5,NA,Mix
+129,0322221,200,NA,NA,NA,NA,NA,NA,Mix,NA,cleaned,NA,Mix
+301,0328221,200,NA,NA,NA,NA,NA,3,Mix,651,harv_1,2022-04-25,Mix
+301,0328221,200,NA,NA,NA,NA,NA,3,Mix,180,harv_2,2022-04-26,Mix
+301,0328221,200,NA,NA,NA,NA,NA,3,Mix,200,harv_3,2022-04-28,Mix
+301,0328221,200,NA,NA,NA,NA,NA,3,Mix,NA,harv_4,NA,Mix
+301,0328221,200,NA,NA,NA,NA,NA,3,Mix,NA,harv_5,NA,Mix
+301,0328221,200,NA,NA,NA,NA,NA,3,Mix,NA,cleaned,NA,Mix
+302,0401221,200,NA,NA,NA,NA,NA,3,M. paniculata,NA,harv_1,NA,O. Jasmine
+302,0401221,200,NA,NA,NA,NA,NA,3,M. paniculata,NA,harv_2,NA,O. Jasmine
+302,0401221,200,NA,NA,NA,NA,NA,3,M. paniculata,NA,harv_3,NA,O. Jasmine
+302,0401221,200,NA,NA,NA,NA,NA,3,M. paniculata,NA,harv_4,NA,O. Jasmine
+302,0401221,200,NA,NA,NA,NA,NA,3,M. paniculata,NA,harv_5,NA,O. Jasmine
+302,0401221,200,NA,NA,NA,NA,NA,3,M. paniculata,NA,cleaned,NA,O. Jasmine
+303,0409221,200,NA,NA,NA,NA,NA,3,M. paniculata,NA,harv_1,NA,O. Jasmine
+303,0409221,200,NA,NA,NA,NA,NA,3,M. paniculata,NA,harv_2,NA,O. Jasmine
+303,0409221,200,NA,NA,NA,NA,NA,3,M. paniculata,NA,harv_3,NA,O. Jasmine
+303,0409221,200,NA,NA,NA,NA,NA,3,M. paniculata,NA,harv_4,NA,O. Jasmine
+303,0409221,200,NA,NA,NA,NA,NA,3,M. paniculata,NA,harv_5,NA,O. Jasmine
+303,0409221,200,NA,NA,NA,NA,NA,3,M. paniculata,NA,cleaned,NA,O. Jasmine
+304,0413221,200,NA,NA,NA,NA,NA,3,Mix,NA,harv_1,NA,Mix
+304,0413221,200,NA,NA,NA,NA,NA,3,Mix,NA,harv_2,NA,Mix
+304,0413221,200,NA,NA,NA,NA,NA,3,Mix,NA,harv_3,NA,Mix
+304,0413221,200,NA,NA,NA,NA,NA,3,Mix,NA,harv_4,NA,Mix
+304,0413221,200,NA,NA,NA,NA,NA,3,Mix,NA,harv_5,NA,Mix
+304,0413221,200,NA,NA,NA,NA,NA,3,Mix,NA,cleaned,NA,Mix
